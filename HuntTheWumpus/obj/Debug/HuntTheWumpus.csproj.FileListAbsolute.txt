@@ -1,0 +1,6 @@
+C:\Users\Mike\Documents\Git-Repo\wumpus-net\HuntTheWumpus\bin\Debug\HuntTheWumpus.exe.config
+C:\Users\Mike\Documents\Git-Repo\wumpus-net\HuntTheWumpus\bin\Debug\HuntTheWumpus.exe
+C:\Users\Mike\Documents\Git-Repo\wumpus-net\HuntTheWumpus\bin\Debug\HuntTheWumpus.pdb
+C:\Users\Mike\Documents\Git-Repo\wumpus-net\HuntTheWumpus\obj\Debug\HuntTheWumpus.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Git-Repo\wumpus-net\HuntTheWumpus\obj\Debug\HuntTheWumpus.exe
+C:\Users\Mike\Documents\Git-Repo\wumpus-net\HuntTheWumpus\obj\Debug\HuntTheWumpus.pdb
